@@ -8,10 +8,15 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required packages and print the present data.
+
+2.Print the placement data and salary data.
+
+3.Find the null and duplicate values.
+
+4.Using logistic regression find the predicted values of accuracy , confusion matrices.
+
+5.Display the results
 
 ## Program:
 ```
@@ -75,7 +80,47 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+TOP 3 ELEMENTS
+
+![0 1](https://github.com/user-attachments/assets/a39ef24a-501b-412c-943e-04ef64e3d232)
+
+![0 2](https://github.com/user-attachments/assets/d03d2862-22f7-4989-802d-258de923e459)
+
+DATA DUPLICATE
+
+![0 3](https://github.com/user-attachments/assets/9588f01c-aff4-4fe5-8c20-27f2ef300004)
+
+PRINT DATA
+
+![0 4](https://github.com/user-attachments/assets/210ff5ae-98a1-40d7-af7a-724a58aef377)
+
+DATA STATUS
+
+![0 5](https://github.com/user-attachments/assets/162a3e99-e749-4d2a-bfaf-2bdbe5bcf554)
+
+
+Y-PREDICTION ARRAY
+
+![0 6](https://github.com/user-attachments/assets/a7bb117e-d8a2-4bf9-8cbc-a86c5311b984)
+
+CONFUSION ARRAY
+
+![0 7](https://github.com/user-attachments/assets/fecb3d1e-bbcb-4105-99f6-3587fc1f09f0)
+
+
+ACCURACY VALUE
+
+![0 8](https://github.com/user-attachments/assets/454a8eb0-1593-4cd0-be9e-b7623bb1e5bb)
+
+
+CLASSIFICATION REPORT
+
+![0 9](https://github.com/user-attachments/assets/e080dff6-89a1-419f-b6d0-63cf8f44146d)
+
+
+PREDICTION OF LR
+
+![0 10](https://github.com/user-attachments/assets/c13fb6fa-b906-4c2a-ab16-894bb1c0e0a2)
 
 
 ## Result:
